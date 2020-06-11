@@ -18,4 +18,4 @@ jobs:
           check: 'all'
           update: true
           target_branch: master
-          target_repository: trsvchn/colab-badge-action-v2-test
+          target_repository: VinodKumar9576/test
